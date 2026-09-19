@@ -1,0 +1,9 @@
+Bank,Loan Type,Interest Rate,Minimum Loan,Maximum Loan,Minimum Tenure,Maximum Tenure,Processing Fee,Eligibility,Source,Data Source Type
+SBI,Personal Loan,10%-15% p.a.,₹1 Lakh,₹20 - 50 Lakh,N/A,6 years,Up to 1.5% + GST,Subject to bank eligibility criteria,SBI Official website,Original
+HDFC Bank,Personal Loan,9.99%-24% p.a.,25000,₹50 Lakh,1 year,7 years,N/A,Subject to bank eligibility criteria,HDFC Bank Official website,Original
+ICICI Bank,Personal Loan,9.99%-16.50% p.a.,50000,₹50 Lakh,12 months,72 months,Up to 2% + taxes,Subject to bank eligibility criteria,ICICI Bank Official website,Original
+Axis Bank,Personal Loan,9.99%-22% p.a.,50000,₹50 Lakh,12 months,84 months,Up to 2% + GST,Subject to bank eligibility criteria,Axis Bank Official website,Original
+Kotak Mahindra Bank,Personal Loan,From 10.99% p.a.,N/A,Up to ₹35 Lakh,1 year,6 years,Up to 3% + taxes,Subject to bank eligibility criteria,Kotak Mahindra Bank Official website,Original
+Punjab National Bank,Personal Loan,10.50%-17.05% p.a.,25000,₹20 Lakh,12 months,84 months,Up to 1%,Subject to bank eligibility criteria,Aggregated web research (verify on pnbindia.in),Web Research
+Bank of Baroda,Personal Loan,10.15%-18.30% p.a.,50000,₹20 Lakh,12 months,84 months,1%-2% + GST,Subject to bank eligibility criteria,Aggregated web research (verify on bankofbaroda.in),Web Research
+Canara Bank,Personal Loan,9.70%-14% p.a.,50000,₹10 Lakh,12 months,84 months,Up to 1%,Subject to bank eligibility criteria,Aggregated web research (verify on canarabank.com),Web Research
